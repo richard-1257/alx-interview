@@ -1,2 +1,2 @@
 # Pascal's Triangle
-
+Pascal's Triangle is a triangular array where each number is the sum of the two numbers directly above it. To generate it in Python: Initialize an empty list for the triangle, iterate through the desired number of rows, and for each row, calculate the values by summing the adjacent values from the previous row, appending them to the triangle list. Print the resulting triangle row by row.
