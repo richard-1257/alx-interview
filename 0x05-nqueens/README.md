@@ -1,6 +1,9 @@
 ![image](https://github.com/richard-1257/alx-interview/assets/83041703/c19fd33d-7c11-4ffe-b653-68c840f445bd)
 # N Queens
 `Algorithm` `Python`
+
+- By: Alexa Orrico, Software Engineer at Holberton School
+
 This project contains interview coding challenges.
 
 ## Tasks To Complete
