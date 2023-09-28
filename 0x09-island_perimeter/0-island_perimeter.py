@@ -2,6 +2,7 @@
 """Island perimeter computing module.
 """
 
+
 def island_perimeter(grid):
     """Computes the perimeter of an island with no lakes.
     """
@@ -21,4 +22,4 @@ def island_perimeter(grid):
                 j == 0 or row[j - 1] == 0,
             )
             perimeter += sum(edges)
-        return perimeter
+    return perimeter
